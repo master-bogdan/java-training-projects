@@ -1,4 +1,4 @@
-package com.investment.earnings;
+package com.investment_earnings;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
